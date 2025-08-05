@@ -1,0 +1,25 @@
+# 🔐 Secrets
+.env
+account.json
+encoded.txt
+
+# 📦 Node modules
+node_modules/
+
+# ⚙️ Build output
+dist/
+
+# 💻 OS-specific
+.DS_Store
+Thumbs.db
+
+# 😎 Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🧪 IDE files
+.vscode/
+.idea/
+
+
